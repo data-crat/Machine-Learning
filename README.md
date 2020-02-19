@@ -1,7 +1,7 @@
-# Hackathons-Machine-Learning
-This repo  contains  beginner friendly ways of tackling online hackathons for ML
+# Machine-Learning
+## This repo  contains  beginner friendly ways of tackling online hackathons or various problem statements for ML
 
-1) Big Mart Sales - 
+# 1) Big Mart Sales - 
 My take on Analytics Vidhya BigMart’s sale(https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/) 
 prediction hackathon.
 We have  to identify the most important variables and to define the best regression model for predicting 
@@ -23,14 +23,14 @@ It got me into top 20% of the leaderboard.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-2) Customer Segmentation-
+# 2) Customer Segmentation-
   My take on understanding Unsupervised ML and specifically introduction and implementation of clustering algorithms
   
   # We will dwell in to the unsupervised aspect of machine learning in this section
 
 
    
-  ##  Unsupervised learning is the training of an artificial intelligence (AI) algorithm using information that is neither classified     nor labeled and allowing the algorithm to act on that information without guidance
+  Unsupervised learning is the training of an artificial intelligence (AI) algorithm using information that is neither classified     nor labeled and allowing the algorithm to act on that information without guidance
 
 
 
