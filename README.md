@@ -22,3 +22,21 @@ It got me into top 20% of the leaderboard.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+
+2) Customer Segmentation-
+  My take on understanding Unsupervised ML and specifically introduction and implementation of clustering algorithms
+  
+  # We will dwell in to the unsupervised aspect of machine learning in this section
+
+
+   
+  ##  Unsupervised learning is the training of an artificial intelligence (AI) algorithm using information that is neither classified     nor labeled and allowing the algorithm to act on that information without guidance
+
+
+
+  # Pretty interesting right????   
+  
+  ![unsupervised](https://user-images.githubusercontent.com/45167372/74805633-b08c0980-5309-11ea-88bc-8b9f492db0c3.gif)
+  
+  
+  Please go to the clustering folder for the code written in jupyter notebook and the dataset used for the same.
