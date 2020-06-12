@@ -1,5 +1,5 @@
 # Machine-Learning
-## This repo  contains  beginner friendly ways of tackling online hackathons or various problem statements using ML
+# In only data we trust
 
 # 1) Big Mart Sales - 
 My take on Analytics Vidhya BigMart’s sale(https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/) 
