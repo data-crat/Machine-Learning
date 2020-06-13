@@ -11,15 +11,7 @@ Hence, this analysis will be divided into five stages:
 ![workflow](https://user-images.githubusercontent.com/45167372/73745321-bf56b600-4778-11ea-9794-760eede39210.png)
 
 The Algorithms aren't covered in an extensive way as it assumes the user to know the maths behind them.
-Please visit the REGRESSION folder for the code.
-
-My Score on Analytics Vidhya:
-1) Linear Regression : RMSE :1262
-2) Decision Tree:      RMSE :1302
-3) XGBoost:            RMSE : 955.8
-
-It got me into top 20% of the leaderboard.
-
+Please visit the Big Mart Sales Sales folder for the self explanatory code and the dataset used
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -40,3 +32,19 @@ It got me into top 20% of the leaderboard.
   
   
   Please go to the clustering folder for the code written in jupyter notebook and the dataset used for the same.
+  
+  
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+# 3) Market Mix Modelling-
+  My take on market mix modelling concepts and modelling techniques
+  
+  # We will dwell in to  how four P's vary with each, explain the model together and how can they solve problems for the organizations
+
+  Marketing Mix Modeling (MMM) is one of the most popular analysis under Marketing Analytics which helps organisations in estimating the   effects of spent on different advertising channels (TV, Radio, Print, Online Ads etc) as well as other factors (price, competition,     weather, inflation, unemployment) on sales. In simple words, it helps companies in optimizing their marketing investments which they     spent in different marketing mediums (both online and offline).
+  
+  Please visit the Market-Mix-Modelling folder for the self explanatory code and the dataset used
+  
+  
+ # Many Many more to be added to the list. May the data be with you.
+
