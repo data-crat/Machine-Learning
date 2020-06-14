@@ -43,6 +43,8 @@ Please visit the Big Mart Sales Sales folder for the self explanatory code and t
 
   Marketing Mix Modeling (MMM) is one of the most popular analysis under Marketing Analytics which helps organisations in estimating the   effects of spent on different advertising channels (TV, Radio, Print, Online Ads etc) as well as other factors (price, competition,     weather, inflation, unemployment) on sales. In simple words, it helps companies in optimizing their marketing investments which they     spent in different marketing mediums (both online and offline).
   
+![1_TEPTZKBF1wCq56aLo1IAmw](https://user-images.githubusercontent.com/45167372/84584477-929b6500-ae22-11ea-8262-ccea40a1a5fa.png)
+
   Please visit the Market-Mix-Modelling folder for the self explanatory code and the dataset used.
   
   
