@@ -9,4 +9,4 @@ With this information the corporation hopes we can identify the products and sto
 
 
 
-# Updated Version with optimization tree based algorithms will be updated soon
+# Updated Version of the code with comparison of prediction with tree based algorithms will be available soon
