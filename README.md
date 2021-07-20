@@ -31,7 +31,7 @@ Please visit the Big Mart Sales Sales folder for the self explanatory code and t
   ![unsupervised](https://user-images.githubusercontent.com/45167372/74805633-b08c0980-5309-11ea-88bc-8b9f492db0c3.gif)
   
   
-  Please go to the clustering folder for the code written in jupyter notebook and the dataset used for the same.
+  Please go to the Customer Segementation folder for the code written in jupyter notebook and the dataset used for the same.
   
   
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -46,9 +46,15 @@ Please visit the Big Mart Sales Sales folder for the self explanatory code and t
 ![1_TEPTZKBF1wCq56aLo1IAmw](https://user-images.githubusercontent.com/45167372/84584477-929b6500-ae22-11ea-8262-ccea40a1a5fa.png)
 
   Please visit the Market-Mix-Modelling folder for the self explanatory code and the dataset used.
+-----------------------------------------------------------------------------------------------------------------------------------------  
+ # 4) Human Activity Recognition (Unsupervised) -
+   A classic dataset to work on the unsupervised techniques
+    
+   With the advancement in IOT, sensors analytics have played a huge role in day-to-day activities. Sudden spike in the availability and usage of smart watches is a great    example for this. Application of sensors analytics living beings to track their actions and vital signs has huge set of problem pool, namely – Calorie tracker, early warning for life threatening diseases, protection of endangered species, improve sports person’s abilities etc. The current problem can be considered as the base for all the above mentions applications of sensor analytics on living things. Certain experiments were carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz were captured.
+    
+   We will touch base on few concepts of k- means and feature transformation 
   
-  
-  
+   Please visit the Human Activity Recognition folder for the self explanatory code and the dataset used.
   
   
   
